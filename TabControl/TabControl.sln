@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TabControl", "TabControl\TabControl.vcxproj", "{40044843-F53F-4FFE-A177-9D8318D3BB33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40044843-F53F-4FFE-A177-9D8318D3BB33}.Debug|x64.ActiveCfg = Debug|x64
+		{40044843-F53F-4FFE-A177-9D8318D3BB33}.Debug|x64.Build.0 = Debug|x64
+		{40044843-F53F-4FFE-A177-9D8318D3BB33}.Debug|x86.ActiveCfg = Debug|Win32
+		{40044843-F53F-4FFE-A177-9D8318D3BB33}.Debug|x86.Build.0 = Debug|Win32
+		{40044843-F53F-4FFE-A177-9D8318D3BB33}.Release|x64.ActiveCfg = Release|x64
+		{40044843-F53F-4FFE-A177-9D8318D3BB33}.Release|x64.Build.0 = Release|x64
+		{40044843-F53F-4FFE-A177-9D8318D3BB33}.Release|x86.ActiveCfg = Release|Win32
+		{40044843-F53F-4FFE-A177-9D8318D3BB33}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9182F69-0FAA-4ABB-B658-CFF338D69A5B}
+	EndGlobalSection
+EndGlobal

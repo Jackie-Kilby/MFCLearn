@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  CCDlg.cpp
+  CJackDlg.cpp
+  TabControl.cpp
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.h(36): error C3646: 'm_jackDlg': unknown override specifier
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.h(36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.h(37): error C3646: 'm_cDlg': unknown override specifier
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.h(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  TabControlDlg.cpp
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.h(36): error C3646: 'm_jackDlg': unknown override specifier
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.h(36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.h(37): error C3646: 'm_cDlg': unknown override specifier
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.h(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.cpp(109): error C2065: 'm_jackDlg': undeclared identifier
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.cpp(110): error C2065: 'm_cDlg': undeclared identifier
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.cpp(118): error C2065: 'm_jackDlg': undeclared identifier
+d:\work-space\mfclearn\tabcontrol\tabcontrol\tabcontroldlg.cpp(119): error C2065: 'm_cDlg': undeclared identifier
+  Generating Code...
