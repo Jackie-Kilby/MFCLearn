@@ -1,1 +1,12 @@
-﻿
+﻿  stdafx.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MenuResource.cpp
+  MenuResourceDoc.cpp
+  MenuResourceView.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating Code...
+  MenuResource.vcxproj -> D:\Work-Space\MFCLearn\MenuResource\Debug\MenuResource.exe
